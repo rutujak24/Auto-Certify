@@ -38,7 +38,7 @@ def make_certi(name):
 # Email the certificate as an attachment
 def email_certi( filename, receiver, name ):
     username = "rutuuuujaaaa@gmail.com"
-    password = "rajaramroy"
+    password = "Password"
     sender = username + '@gmail.com'
 
     msg = MIMEMultipart()
