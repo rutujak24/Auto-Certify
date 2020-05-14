@@ -19,3 +19,5 @@ from email.mime.text import MIMEText
 from email.mime.application import MIMEApplication
 from email.mime.multipart import MIMEMultipart
 </pre>
+
+This project creates certificates from a template for all participants in excel sheet and sends them via email, also creates a folder which stores the send email certificates.
